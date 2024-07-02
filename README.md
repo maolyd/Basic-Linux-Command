@@ -17,3 +17,6 @@ find - to search for and locate files
 rm - to remove a file
 mv - to rename or move a file
 cp - to copy a file
+read	- r
+write	- w
+execute	- x
